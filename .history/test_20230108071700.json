@@ -1,0 +1,62 @@
+[
+    {
+        "gender": "female",
+        "first_name": "melissa",
+        "last_name": "fleming",
+        "age": 21
+    },
+    {
+        "gender": "male",
+        "first_name": "christoffer",
+        "last_name": "christiansen",
+        "age": 21
+    },
+    {
+        "gender": "male",
+        "first_name": "valtteri",
+        "last_name": "pulkkinen",
+        "age": 21
+    },
+    {
+        "gender": "male",
+        "first_name": "todd",
+        "last_name": "beck",
+        "age": 21
+    },
+    {
+        "gender": "female",
+        "first_name": "kayla",
+        "last_name": "hall",
+        "age": 21
+    },
+    {
+        "gender": "male",
+        "first_name": "jimmie",
+        "last_name": "simmons",
+        "age": 21
+    },
+    {
+        "gender": "male",
+        "first_name": "benedikt",
+        "last_name": "hein",
+        "age": 21
+    },
+    {
+        "gender": "male",
+        "first_name": "aloïs",
+        "last_name": "moulin",
+        "age": 21
+    },
+    {
+        "gender": "male",
+        "first_name": "noah",
+        "last_name": "smith",
+    },
+    "age": 21
+    {
+        "gender": "male",
+        "first_name": "noah",
+        "last_name": "dupont",
+        "age": 21
+    }
+]
